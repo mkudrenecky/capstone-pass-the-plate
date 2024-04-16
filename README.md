@@ -1,4 +1,12 @@
-## PassThePlate (Team 8)- Joss White, Alexander Roizman, Mackenzie Kudrenecky, Brandon Mack
+# PassThePlate 
+A mobile food sharing application for the UBCO COSC 499 Capstone Project.
+
+## Overview
+
+Our application is uniquely designed to address the pressing issues of food waste and the lack of access to free, healthy food options for those in need. By focusing on a sustainable way of living, we've created a platform where individuals can effortlessly access and provide free homemade meals and non-perishable goods. Users can seamlessly filter by preferences, dietary restrictions, and proximity through a variety of user-friendly interfaces. Among these are a distance filtering map and integrated messaging services, ensuring that both givers and receivers can easily communicate and coordinate.
+
+## Demo
+[Walkthrough](https://youtu.be/GCesCieYwUI)
 
 ### Local Development Backend Start-Up
 
